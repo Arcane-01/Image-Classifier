@@ -3,4 +3,4 @@ Implementation of neural networks with Pytorch for classification of MNIST datas
 
 ## Training-Loss plot
 
-![Loss Plot image](images/TrainingLossPlot.jpg)
+![Loss Plot image](images/TrainingLossPlot.png)
