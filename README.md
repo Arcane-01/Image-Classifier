@@ -9,5 +9,7 @@ The [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) is used. It is a dataset 
 | Learning rate      | 0.001      |
 | Number of epochs   | 10       |
 | Batch Size     | 128      |
+## Results
+The results show 99.89 training accuracy and 98.13 test accuracy.
 ## Training-Loss plot
 ![Loss Plot image](images/TrainingLossPlot.png)
