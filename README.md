@@ -1,6 +1,6 @@
 # MNIST-Classifier
 Implementation of neural networks with Pytorch for classification of MNIST dataset
-
+## Dataset
+The [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) is used. It is a dataset of 60,000 training samples and 10,000 test samples. Each sample is a 28×28 pixel grayscale image of a single handwritten digit between 0 and 9.
 ## Training-Loss plot
-
 ![Loss Plot image](images/TrainingLossPlot.png)
